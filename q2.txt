@@ -3,3 +3,12 @@ and (600, 450) in TL,TR, BL, BR order.
 
 Triangle 1 is (200, 150), (200, 450), (600, 150)
 Triangle 2 is (600, 450), (600, 150), (200, 450)
+
+Vertex buffer is (200, 150), (200, 400), (600, 450), (600, 150)
+Index buffer is 0, 1, 3, 2, 3, 1
+
+Memory taken up: part a.) is 48 bytes (6 vertices * 8), and Index scheme is 56 bytes (4 vertices * 8 plus 6 indecies *4)
+
+UV 
+u = (500 - 200)/400 = 300/400 = 0.75
+v = (301-150)/300 = 151/300 - 0.503
