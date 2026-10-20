@@ -1,0 +1,5 @@
+Rectangle is 400 by 300 centered at (400, 300). The corners are (200, 150), (600, 150), (200, 450), 
+and (600, 450) in TL,TR, BL, BR order.
+
+Triangle 1 is (200, 150), (200, 450), (600, 150)
+Triangle 2 is (600, 450), (600, 150), (200, 450)
